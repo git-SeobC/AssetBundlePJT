@@ -12,7 +12,7 @@ using UnityEngine;
 // 
 public class AsyncSample : MonoBehaviour
 {
-    bool proc = false;
+    //bool proc = false;
 
     //void Start()
     //{

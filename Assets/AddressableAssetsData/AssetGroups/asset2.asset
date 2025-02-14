@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: asset2
+  m_EditorClassIdentifier: 
+  m_GroupName: asset2
+  m_GUID: 80f680c765904c4418e2d5b26eb343d0
+  m_SerializeEntries:
+  - m_GUID: aeee9f13636591b4d92fa24a4c9b559d
+    m_Address: Assets/Prefabs/Green_Sphere.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ec7c1bc6bc610504fb55366b8587df7e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 40bef6ec9a615ab44b2482b629779cbb, type: 2}
+    - {fileID: 11400000, guid: 6950cf6bc89331e4ebfb10dc39eb8199, type: 2}
