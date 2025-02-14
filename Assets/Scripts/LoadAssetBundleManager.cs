@@ -24,6 +24,8 @@ public class LoadAssetBundleManager : MonoBehaviour
 
         // 전달 받은 번들을 통해 에셋을 로드
         GameObject prefab = bundle.LoadAsset<GameObject>("Blue_Sphere");
+        // LoadAsset<T>("이름");
+
         Instantiate(prefab);
     }
 }
